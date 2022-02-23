@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Brobot64
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science.
 - 🌱 I’m currently learning Machine Learning with python
+- I'm a Javascript developer
+- I'm into Node js (RESTful APIs). 
 - 💞️ I’m looking to collaborate on a Predictive Learning project
 - 📫 How to reach me on my email sulaymanibrahim64@gmail.com
 
